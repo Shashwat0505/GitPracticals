@@ -9,3 +9,9 @@ merged pull_merge3 branch to pull_merge1 branch.
 -feature branch consist feature1.txt,feature2.txt,feature3.txt.
 -rebase feature branch on master branch.
 
+----third Practical---
+-created branch change_feature
+-commited with message this is commit message.
+-changed commit with git commit --amend  to this message is of commit branch.
+
+
