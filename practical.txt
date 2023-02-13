@@ -21,3 +21,10 @@ merged pull_merge3 branch to pull_merge1 branch.
 -cherry-pick commit mm2 on master branch.
 
 
+
+---fifth practical---
+-created branch undone
+-Done 2 commits 'Hello1 added' and 'Hello2 added'.
+-Drop commit 'Hello2 added' with command git reset --hard f3f42a214ee8d5fa315680bb7437d2ee463468af
+
+
