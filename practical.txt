@@ -14,4 +14,10 @@ merged pull_merge3 branch to pull_merge1 branch.
 -commited with message this is commit message.
 -changed commit with git commit --amend  to this message is of commit branch.
 
+---fourth practical---
+-created branch cherry_pick.
+-Applied 2 commits mm1 and mm2 on cherry_pick branch.
+-checkout to master branch.
+-cherry-pick commit mm2 on master branch.
+
 
