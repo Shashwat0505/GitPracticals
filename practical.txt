@@ -1,4 +1,6 @@
 -Created gitPractical folder for performing all the practicals.
 -gitPracticals folder consist of demo.html,index.html,practical.txt.
 -practical.txt consist of all the informations regarding the practicals.
+-created branch pull_merge1,pull_merge2,pull_merge3 which consist demo1.txt,demo2.txt,demo3.txt respectively.
+merged pull_merge3 branch to pull_merge1 branch.
 
